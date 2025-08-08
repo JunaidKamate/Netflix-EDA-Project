@@ -74,5 +74,3 @@ This EDA helped us understand Netflix's content landscape. With deeper insight i
 
 ---
 
-## 📂 Folder Structure
-
